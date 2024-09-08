@@ -1,0 +1,6 @@
+text_file.txt
+uk
+screen
+1000
+200
+10
